@@ -1,0 +1,21 @@
+{
+  "name": "bergie-bot",
+  "version": "0.0.1",
+  "description": "A better communicator than Nick.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@slack/bolt": "^2.7.0",
+    "request": "^2.88.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/nicholasbergesen/bergie-bot.git"
+  },
+  "author": "Nicholas Bergesen",
+  "license": "MIT"
+}

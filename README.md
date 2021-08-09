@@ -1,4 +1,3 @@
 # bergie-bot
-A better communicator than Nick
 
-This bot uses the papago API to translate slack messages containing Korean characters.
+A basic slack-bot that translates from korean to english using the papago api.
